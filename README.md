@@ -22,7 +22,7 @@ Hi I'm Christian Lima dev full stack
 
 ###
 
-<div align="space-around">
+<div align="center" gap=2rem>
   <a href="https://www.linkedin.com/in/devchristianlima/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
