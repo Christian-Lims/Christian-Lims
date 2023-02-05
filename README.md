@@ -1,5 +1,5 @@
 # 
-<h1 align="center" background="blue" > Hi I'm Christian Lima dev full stack <h1/>
+<h1 align="center" > Hi I'm Christian Lima dev full stack <h1/>
 
 ###
 
