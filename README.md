@@ -4,7 +4,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&username=Christian-Lims" height="150" alt="stats graph"  />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Lims&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Lims&layout=compact&langs_count=7&theme=dark"/>
   
 ###
 
@@ -34,3 +36,6 @@
   </a> 
   <a href = "mailto:christiandasilvalima@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Microsoft_Outlook logo" target="_blank"></a>
 </div>
+
+  
+ 
